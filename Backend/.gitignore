@@ -1,0 +1,32 @@
+# Node modules
+node_modules/
+
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+*.code-workspace
+
+# Production builds or runtime files
+dist/
+build/
+
+# MongoDB Compass exports or dumps
+dump/
+
+# Optional cache directories
+.cache/
+coverage/
+
+# Local data or uploads (if any in future)
+uploads/

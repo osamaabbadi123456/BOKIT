@@ -1,0 +1,31 @@
+# Node.js backend
+/backend/node_modules/
+/backend/dist/
+/backend/build/
+/backend/.env
+
+# React frontend
+/frontend/node_modules/
+/frontend/build/
+/frontend/.env
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor files
+.vscode/
+.idea/
+*.iml
+
+# Misc
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
